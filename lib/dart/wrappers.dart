@@ -1,5 +1,5 @@
 /// Warning! That file is generated. Do not edit it manually
-
+@JS()
 library wrappers;
 import 'package:js/js.dart';
 import 'package:func/func.dart';

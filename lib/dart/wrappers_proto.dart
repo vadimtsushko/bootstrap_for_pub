@@ -1,6 +1,6 @@
 library anonymous_wrappers_proto;
 
-import 'package:js_wrapper_generator/js_wrapper_generator.dart';
+//import 'package:js_wrapper_generator/js_wrapper_generator.dart';
 import "package:func/func.dart";
 
 class ModalOptions {
@@ -104,7 +104,7 @@ import 'package:js/js.dart';
 import 'package:func/func.dart';
 ''';
 
-main() {
-  new WrapperGenerator(#anonymous_wrappers_proto, fileHeader: header)
-      .generateTo('wrappers.dart');
-}
+//main() {
+//  new WrapperGenerator(#anonymous_wrappers_proto, fileHeader: header)
+//      .generateTo('wrappers.dart');
+//}

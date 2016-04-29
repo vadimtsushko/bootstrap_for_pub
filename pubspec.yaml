@@ -6,13 +6,13 @@ authors:
 - Bootstrap core team
 - Victor Berchet <victor@suumit.com>
 - Seth Ladd <sethladd@gmail.com>
-version: 3.3.4
+version: 3.3.5
 homepage: https://github.com/sethladd/bootstrap
 dependencies:
   barback: ">=0.14.1+3 <0.16.0"
   html: ^0.12.0
-  func: any
-  js: any
-dev_dependencies:
-  js_wrapper_generator:
-    path: '../js_wrapper_generator'
+  func: ^0.1.0
+  js: ^0.6.0
+#dev_dependencies:
+#  js_wrapper_generator:
+#    path: '../js_wrapper_generator'
