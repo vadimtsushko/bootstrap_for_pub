@@ -11,7 +11,7 @@ homepage: https://github.com/sethladd/bootstrap
 dependencies:
   barback: ">=0.14.1+3 <0.16.0"
   html: ^0.12.0
-  func: ^0.1.0
+  func: ">=1.0.0"
   js: ^0.6.0
 #dev_dependencies:
 #  js_wrapper_generator:
