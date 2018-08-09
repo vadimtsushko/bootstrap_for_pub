@@ -1,7 +1,6 @@
 @JS()
 library bootstrap_api;
 import 'package:js/js.dart';
-import 'package:func/func.dart';
 import 'wrappers.dart';
 
 

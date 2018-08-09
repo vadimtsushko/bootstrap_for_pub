@@ -1,7 +1,7 @@
 library anonymous_wrappers_proto;
 
 //import 'package:js_wrapper_generator/js_wrapper_generator.dart';
-import "package:func/func.dart";
+import 'package:function_types/function_types.dart';
 
 class ModalOptions {
   bool keyboard;

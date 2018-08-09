@@ -2,7 +2,7 @@
 @JS()
 library wrappers;
 import 'package:js/js.dart';
-import 'package:func/func.dart';
+import 'package:function_types/function_types.dart';
 
 @JS()
 @anonymous
